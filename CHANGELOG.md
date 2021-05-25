@@ -1,3 +1,9 @@
+# 1.7.8
+
+## Bugs
+
+- Downgrade werkzeug to fix compatibility issues
+
 # 1.7.7
 
 ## Features
